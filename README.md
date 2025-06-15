@@ -42,7 +42,7 @@ This approach opens the door to a **multisensory learning experience** that blen
 
 ---
 
-### 📁 Structure (coming soon)
+
 
 
 ---
@@ -56,6 +56,13 @@ This approach opens the door to a **multisensory learning experience** that blen
 ### 👤 Author
 
 **Lazaros Varvatis (LAKITALKS)** – interdisciplinary thinker exploring cognition, creativity, reasoning, and sound-based learning through AI.
+
+
+## 📑 Project documentation  
+- 🗺️ [Architecture Overview](docs/architecture.md)  
+- 🌟 [Vision & Value Proposition](docs/vision.md)
+
+---
 
 ---
 
